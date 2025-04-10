@@ -1,1 +1,2 @@
 Fix some bugs
+fix bug 2
